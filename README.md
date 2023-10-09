@@ -1,4 +1,4 @@
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/:795438016)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/:m795438016-ce6ea8602020f91b188f1b51)
 # Vidly
 live 👉 [edencoded.pro](http://edencoded.pro/)
 status page 👁️ [stats](https://stats.uptimerobot.com/9oXBgcR2nz)
