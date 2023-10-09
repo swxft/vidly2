@@ -17,7 +17,7 @@ const movies = [
 
 const newMovie = { _id: 4, title: "New Movie" };
 
-const apiEndpoint = "http://localhost:3001/api/movies";
+const apiEndpoint = "http://104.248.120.39:3001/api/movies";
 
 const server = setupServer(
   rest.get(apiEndpoint, (req, res, ctx) => res(ctx.json(movies))),
