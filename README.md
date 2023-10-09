@@ -1,9 +1,20 @@
-# HOW TO USE
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/:795438016)
+# Pet Shop
+live 👉 [edencoded.pro](http://edencoded.pro/)
+status page 👁️ [stats](https://stats.uptimerobot.com/9oXBgcR2nz)
 
-git clone the repo
+## How To Run
+🎽🎽🎽
+### 1. Clone The Repo
+`git clone https://github.com/swxft/pet-shop.git`
 
-docker-compose up
+### 2. Run via Docker
+- make sure you've manually turned Docker on locally
+- in the cli 👇
+`docker-compose up` 
 
-# What to do  
+### 3. Use the App
+Create and delete apps as you like at `localhost:3000`. `docker ps` to check what ports are in use. you may need to `docker kill` one if it's running on that `3000` port 😉.
 
-add and remove movies!
+### 4. Shut Docker Down
+`docker-compose down` 
