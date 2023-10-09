@@ -1,15 +1,4 @@
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/:795438016)
-# HOW TO USE
-
-git clone the repo
-
-docker-compose up
-
-# What to do  
-
-add and remove movies!
-
-
 # Pet Shop
 live 👉 [edencoded.pro](http://edencoded.pro/)
 status page 👁️ [stats](https://stats.uptimerobot.com/9oXBgcR2nz)
